@@ -1,1 +1,1 @@
-https://grabkin.github.io/rsschool-cv/cv
+https://grabkin.github.io/rsschool-cv/cv README.md
